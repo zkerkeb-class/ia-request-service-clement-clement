@@ -29,7 +29,6 @@ Create `.env` file
 
  <pre>
 PORT=3003
-
  </pre>
 
 ## Run project
