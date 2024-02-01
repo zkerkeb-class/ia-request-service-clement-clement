@@ -28,15 +28,8 @@ Create `.env` file
 .env configuration :
 
  <pre>
-PORT=3001
+PORT=3003
 
-DB_HOST=
-DB_USER=
-DB_PASSWORD=
-DB_DATABASE=
-DB_PORT=3306
-
-JWT_SECRET=
  </pre>
 
 ## Run project
